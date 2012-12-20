@@ -1,0 +1,20 @@
+#target {
+	height: 300px;
+	width: 300px;
+	background: #990000;
+	border: 1px solid black;
+	border-radius: 10px;
+	float: right;
+	padding: 10px;
+}
+
+#lists {
+	width: 300px;
+	float: left;
+
+}
+
+.points {
+	text-decoration: none;
+	list-style: none;
+}
