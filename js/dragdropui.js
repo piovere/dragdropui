@@ -1,3 +1,3 @@
-$(function() {
-	$(".points").dragabble();
+$(document).ready(function() {
+	$("span").dragabble();
 });

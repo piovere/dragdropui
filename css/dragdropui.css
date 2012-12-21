@@ -8,15 +8,21 @@
 	padding: 10px;
 }
 
+/*
 #lists {
 	width: 300px;
 	float: left;
-
+	text-align: center;
 }
+*/
 
 .points {
 	text-decoration: none;
 	list-style: none;
+	background: gray;
+	margin-top: 5px;
+	width: 200px;
+	text-align: center;
 }
 
 .dragover {
